@@ -31250,11 +31250,11 @@ F4:function(){var s,r=this
 r.aR(new F.XK(r))
 s=t.P
 P.aca(r.nJ(r.d.a.a).bS(0,new F.XL(r),s),new F.XM(r),s,t.tw)},
-S:function(a,b){var s=this,r=null,q=L.en(s.a.c,r,r,r,r,r,r),p=s.e?A.nf(r,r,C.m,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r):A.nf(r,r,C.n2,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r),o=s.e,n=L.a4H(r,C.ls,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,"Enter image name Eg: alpine:3.12",r,r,r,!1,r,r,"Image",r,r,r,r,r,r,r,r,r,r,r),m=o?s.gVj():r,l=L.en("Download",r,r,r,r,r,r),k=t.fQ
+S:function(a,b){var s=this,r=null,q=L.en(s.a.c,r,r,r,r,r,r),p=s.e?A.nf(r,r,C.m,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r):A.nf(r,r,C.n2,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r),o=s.e,n=L.a4H(r,C.ls,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,"Enter image name Eg: alpine:3.12",r,r,r,!1,r,r,"Image",r,r,r,r,r,r,r,r,r,r,r),m=o?s.gVj():r,l=L.en("Pull",r,r,r,r,r,r),k=t.fQ
 m=T.adD(H.d([new T.xG(1,C.m_,new T.eR(C.wz,new Z.rR(s.d,n,C.Ak,p,!0,C.zO,C.zP,C.Dr,new F.XF(s),o,r),r),r),new T.eR(C.wu,B.a4S(l,o?C.kq:C.n2,m,C.j),r)],k),C.lP,C.kp)
 p=s.f
 p=p===""?L.en("",r,r,r,r,r,r):B.a4S(L.en(C.b.xT(p,"https://dockerimagesave.copincha.org/download/",""),r,r,r,r,r,r),r,new F.XG(s),C.yo)
-o=s.f===""&&!s.e?T.a41(H.d([new T.eR(C.wr,new U.oM(r,C.n2,r,r,r,r),r),L.en("Downloading",r,r,r,r,r,r)],k),C.ko,C.kp):L.en("",r,r,r,r,r,r)
+o=s.f===""&&!s.e?T.a41(H.d([new T.eR(C.wr,new U.oM(r,C.n2,r,r,r,r),r),L.en("Obtaining",r,r,r,r,r,r)],k),C.ko,C.kp):L.en("",r,r,r,r,r,r)
 n=s.r
 return new M.rh(new E.ov(q,new P.a_(1/0,56),r),M.lE(r,T.a41(H.d([m,p,o,n!==""?L.en(n,r,r,r,r,r,r):L.en("",r,r,r,r,r,r)],k),C.ko,C.kp),r,r,r,r,r,r,r),r)}}
 F.XK.prototype={
