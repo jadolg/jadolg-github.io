@@ -34387,7 +34387,7 @@ s=L.a0D(B.ad7(L.fi(C.b.Aw(s,"https://dockerimagesave.copincha.org/download/","")
 n=q.f===""&&!q.e
 n=L.a0D(T.a8q(H.b([new T.dg(C.pk,new U.qG(p,C.h5,p,p,p,p,p),p),L.fi("Obtaining",p,p,p,p,p,p)],r),C.dJ,C.cS,C.c8),!0,!0,!0,n)
 m=q.x
-return new M.uo(new E.qm(o,new P.O(1/0,56),p),M.jy(p,T.a8q(H.b([l,s,n,L.a0D(L.fi(m,p,p,p,p,p,p),!0,!0,!0,m!==""),M.jy(p,new M.BJ("# How to use:\n1. Enter image and tag that you want to download in the text box (**image:tag**)\n2. Click **pull** and wait for the download link to appear\n3. Download the zip file\n4. Unzip the file in your computer\n5. Load the **docker image** in your local **docker** `docker load -i image_tag.tar`",!0,p,p,p,p,p,p,p,p,p,p,p,p,C.vq,C.vD,p),p,S.mR(new P.O(600,600)),p,p,p,p,p)],r),C.dJ,C.cS,C.c8),p,p,p,p,p,p,p),p)}}
+return new M.uo(new E.qm(o,new P.O(1/0,56),p),M.jy(p,T.a8q(H.b([l,s,n,L.a0D(L.fi(m,p,p,p,p,p,p),!0,!0,!0,m!==""),M.jy(p,new M.BJ("# What's this:\nThis application downloads **Docker** images compressed as zip files.\n\nIt is intended to be used in places like *Cuba* where the access to DockerHub is blocked.\n\n# How to use:\n1. Enter image and tag that you want to download in the text box (**image:tag**)\n2. Click **pull** and wait for the download link to appear\n3. Download the zip file\n4. Unzip the file in your computer\n5. Load the **docker image** in your local **docker** `docker load -i image_tag.tar`",!0,p,p,p,p,p,p,p,p,p,p,p,p,C.vq,C.vD,p),p,S.mR(new P.O(600,600)),p,p,p,p,p)],r),C.dJ,C.cS,C.c8),p,p,p,p,p,p,p),p)}}
 F.a3B.prototype={
 $0:function(){var s=this.a
 s.e=!1
