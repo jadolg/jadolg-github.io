@@ -34341,7 +34341,7 @@ a4r:function(a){var s=0,r=P.ad(t.z),q,p,o,n
 var $async$pt=P.a9(function(b,c){if(b===1)return P.aa(c,r)
 while(true)switch(s){case 0:n=t.z
 case 2:s=5
-return P.ap(G.agC(P.afj("https","dockerimagesave.copincha.org","pull/"+H.c(a),null)),$async$pt)
+return P.ap(G.agC(P.afj("https","dockerimagesave.akiel.dev","pull/"+H.c(a),null)),$async$pt)
 case 5:q=c
 p=C.aI.yH(0,B.agx(U.afD(q.e).c.a.h(0,"charset")).dl(0,q.x),null)
 o=J.a6(p)
@@ -34358,7 +34358,7 @@ MJ:function(a){var s=0,r=P.ad(t.fs),q,p,o,n,m
 var $async$mY=P.a9(function(b,c){if(b===1)return P.aa(c,r)
 while(true)switch(s){case 0:m=t.z
 case 3:s=6
-return P.ap(G.agC(P.afj("https","dockerimagesave.copincha.org","save/"+H.c(a),null)),$async$mY)
+return P.ap(G.agC(P.afj("https","dockerimagesave.akiel.dev","save/"+H.c(a),null)),$async$mY)
 case 6:p=c
 o=C.aI.yH(0,B.agx(U.afD(p.e).c.a.h(0,"charset")).dl(0,p.x),null)
 n=J.a6(o)
@@ -34383,7 +34383,7 @@ s=L.fi("Pull",p,p,p,p,p,p)
 r=t.Ma
 l=T.adZ(H.b([n,new T.dg(C.pn,B.ad7(s,m?C.cV:C.h5,l,C.j),p)],r),C.dJ,C.c8,p)
 s=q.f
-s=L.a0D(B.ad7(L.fi(C.b.Aw(s,"https://dockerimagesave.copincha.org/download/","")+" ["+M.ara(q.r)+"]",p,p,p,p,p,p),p,new F.a3x(q),C.vI),!0,!0,!0,s!=="")
+s=L.a0D(B.ad7(L.fi(C.b.Aw(s,"https://dockerimagesave.akiel.dev/download/","")+" ["+M.ara(q.r)+"]",p,p,p,p,p,p),p,new F.a3x(q),C.vI),!0,!0,!0,s!=="")
 n=q.f===""&&!q.e
 n=L.a0D(T.a8q(H.b([new T.dg(C.pk,new U.qG(p,C.h5,p,p,p,p,p),p),L.fi("Obtaining",p,p,p,p,p,p)],r),C.dJ,C.cS,C.c8),!0,!0,!0,n)
 m=q.x
@@ -34404,7 +34404,7 @@ s.aJ(new F.a3y(s,a))},
 $S:288}
 F.a3y.prototype={
 $0:function(){var s=this.a,r=this.b,q=J.a6(r)
-s.f="https://dockerimagesave.copincha.org/"+H.c(q.h(r,"url"))
+s.f="https://dockerimagesave.akiel.dev/"+H.c(q.h(r,"url"))
 s.r=q.h(r,"size")
 s.e=!0},
 $S:2}
